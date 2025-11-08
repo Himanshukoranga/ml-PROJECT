@@ -1,9 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 ## END TO END ML LEARNING 
+=======
+
+## END TO END ML LEARNING
+>>>>>>> Stashed changes
 
 ### today code github
+
 =======
+<<<<<<< Updated upstream
 =======
 END to END ml 
 
@@ -11,5 +18,9 @@ END to END ml
 # ml-PROJECT
 
 
+=======
+
+# ml-PROJECT
+
+>>>>>>> Stashed changes
 This is a basic ml project
->>>>>>> 8ff1d428ffa3e5bc8e3406658d6de304484ed15f
