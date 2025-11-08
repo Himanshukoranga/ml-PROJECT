@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: my_package
+Version: 0.1.0
+Author: Himanshu
+Author-email: himanshukoranga1000@gmail.com
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
+Dynamic: requires-dist
