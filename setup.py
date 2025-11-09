@@ -33,4 +33,4 @@ setup(
     
     # Calls the corrected function to get the dependencies
     install_requires=get_requirements('requirements.txt')
-)
+)  

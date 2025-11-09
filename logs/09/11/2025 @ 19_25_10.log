@@ -1,0 +1,2 @@
+[2025-11-09 19:25:10,989] root INFO [check_logger_status:40] - LOGGER TEST: The logging system has been initialized successfully.
+[2025-11-09 19:25:10,989] root WARNING [check_logger_status:41] - LOGGER TEST: This is a warning message.
